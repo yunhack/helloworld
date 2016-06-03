@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "qvil\\helloworld\\": "vendor"
+            "Qvil\\HelloWorld\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "qvil\\helloworld\\": "tests"
+            "Qvil\\HelloWorld\\": "src/"
         }
     },
     "scripts": {
@@ -34,7 +34,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0"
         }
     }
 }
