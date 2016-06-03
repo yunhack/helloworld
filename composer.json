@@ -1,14 +1,14 @@
 {
-    "name": "qvil/helloworld",
+    "name": "yunhack/helloworld",
     "type": "project",
     "description": "This is a test,upload a helloWorld project to Github for my first commit",
     "keywords": ["empty package", "test"],
-    "homepage": "https://github.com/qvil/helloworld",
+    "homepage": "https://github.com/yunhack/helloworld",
     "license": "MIT",
     "authors": [
         {
-            "name": "qvil",
-            "email": "339799232@qq.com",
+            "name": "Qvil Young",
+            "email": "qvil_young@163.com",
             "homepage": "http://www.yunhack.com",
             "role": "Developer"
         }
