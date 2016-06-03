@@ -1,6 +1,6 @@
 <?php
 
-namespace YunHack\HelloWorld;
+namespace YunHack;
 
 class HelloWorld
 {
