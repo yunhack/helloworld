@@ -1,7 +1,8 @@
 {
     "name": "yunhack/helloworld",
-    "type": "project",
     "description": "This is a test,upload a helloWorld project to Github for my first commit",
+    "version": "1.0.0",
+    "type": "project",
     "keywords": ["empty package", "test"],
     "homepage": "https://github.com/yunhack/helloworld",
     "license": "MIT",
@@ -31,10 +32,5 @@
     },
     "scripts": {
         "test": "phpunit"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0"
-        }
     }
 }
