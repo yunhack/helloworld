@@ -4,6 +4,10 @@
     "keywords": ["empty package", "test"],
     "license": "MIT",
     "require": {
-
+    }£¬
+    "autoload": {
+        "psr-4": {
+            "YunHack\\": "src/"
+        }
     }
 }
